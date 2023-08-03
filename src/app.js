@@ -18,7 +18,7 @@ app.get('/:id', (req, res) => {
 
 
 io.on('connection', channel => {
-
+    // logica de negocio
 });
 
 
